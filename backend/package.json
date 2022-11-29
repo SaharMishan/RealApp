@@ -1,0 +1,24 @@
+{
+  "name": "project-backend",
+  "version": "1.0.0",
+  "description": "Business card app for businesses",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./src/app"
+  },
+  "keywords": [],
+  "author": "Tomer Keisar",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}
