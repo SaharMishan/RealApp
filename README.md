@@ -3,8 +3,7 @@
 <hr><ul>
 <li>
 <blockquote>
-<p>RealApp
-MERN Stack project - If you have a buissiness and you want to make a good looking bussiness card for your bussiness, RealApp is your App</p>
+<p>the application allows business customers to create a business card for their business. It is possible to edit, add and delete cards and manage all your business cards in one place .Built with React, MongoDB, Express JS, Node JS.</p>
 </blockquote>
 </li>
 </ul><h2>Technologies Used</h2>
